@@ -1,8 +1,8 @@
-# UHI
+# Healthstack
 
 ## About
 
-This is a repository intended to maintain a registry of information regarding the ongoing implementation of the [Unified Health Interface](https://abdm.gov.in/assets/uploads/consultation_papersDocs/UHI_Consultation_Paper.pdf) for telemedicine.
+This is a repository intended to maintain a registry of information regarding the ongoing implementation of the [Unified Health Interface](https://abdm.gov.in/assets/uploads/consultation_papersDocs/UHI_Consultation_Paper.pdf) for telemedicine, as well as for the implementation of the consent-based Health Information Flows to generate and share Personal Health Record (PHR)s.
 
 ### Contributors (Alphabetical)
 
