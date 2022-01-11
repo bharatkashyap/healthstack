@@ -19,7 +19,7 @@ This is a repository intended to maintain a registry of information regarding th
 | Priya Karnik        | <a href="https://www.linkedin.com/in/priyakarnik" target="_blank"><i class="fa fa-link"></i>LinkedIn</a>    |                   | iSPIRT                            | 🇮🇳     |
 | Sharad Sharma       | <a href="https://www.linkedin.com/in/sharadsharma" target="_blank"><i class="fa fa-link"></i>LinkedIn</a>    |                   | iSPIRT                            | 🇮🇳     |
 | Siddharth Shetty     | [<i class="fa fa-envelope-o"></i>Email](mailto:siddharth.shetty@ispirt.in)   |                   | iSPIRT                           | 🇮🇳     |
-| Sourabh Panjwani  |<a href="https://www.linkedin.com/in/saurabh-panjwani-796a4435" target="_blank"><i class="fa fa-link"></i>LinkedIn</a>   |                   | iSPIRT                           | 🇮🇳     |
+| Saurabh Panjwani  |<a href="https://www.linkedin.com/in/saurabh-panjwani-796a4435" target="_blank"><i class="fa fa-link"></i>LinkedIn</a>   |                   | iSPIRT                           | 🇮🇳     |
 | Vijay Vujjini  | <a href="https://www.linkedin.com/in/vvujjini" target="_blank"><i class="fa fa-link"></i>LinkedIn</a> |                   | iSPIRT                           | 🇮🇳     |
 
 
